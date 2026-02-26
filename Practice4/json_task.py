@@ -8,7 +8,7 @@ print(f"{'DN':50} {'Description':15} {'Speed':7} {'MTU':5}")
 print("-" * 80)                     # print 80 "-" symbols (line under header)
 
 
-with open("simple-data(not-simple).json", "r") as json_file:  
+with open("sample-data.json", "r") as json_file:  
     # open JSON file in read mode ("r")
 
     parsed_data = json.load(json_file)  
