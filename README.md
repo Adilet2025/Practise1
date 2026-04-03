@@ -8,3 +8,4 @@ It is also good for future jobs. When I make a mistake, I learn from it and try 
 I feel progress after each lesson. That is why I want to learn Python more.
 Python
 4/4 Good atestation
+FINAL 40/40
