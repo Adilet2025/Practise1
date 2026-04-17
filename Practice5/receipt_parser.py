@@ -1,5 +1,5 @@
 import re, shutil, os  # re — module for regular expressions (pattern search in text)
-           # json — module for working with JSON data format
+           # json — module for working with JSON data format 
 def parse_check() -> list:   # function definition; returns a list
     with open("raw.txt", "r", encoding="UTF-8") as f:  
         # open() — opens file "raw.txt"

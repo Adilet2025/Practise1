@@ -2,5 +2,5 @@ import re
 
 a = input()
 
-numbers = re.findall(r'\d{2}', a)
-print(" ".join(numbers))
+letters = re.findall(r'[A-Z]', a)
+print(len(letters))

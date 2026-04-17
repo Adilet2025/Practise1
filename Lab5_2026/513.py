@@ -3,7 +3,5 @@ import re
 
 s = input()
 
-if re.compile(r'^\d+$', s):
-    print("Match")
-else: 
-    print("match")
+numbers = re.findall(r'\w+', s)
+print(len(numbers))
