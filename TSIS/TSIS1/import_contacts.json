@@ -1,0 +1,41 @@
+[
+    {
+        "contact_id": 99,
+        "first_name": "nurdaulet",
+        "last_name": "malik",
+        "email": "minafeed645@gmail.com",
+        "extra_info": "owner_of_the_db",
+        "birthday": null,
+        "group": "work",
+        "phones": [
+            {
+                "number": "+77026146900",
+                "type": "mobile"
+            },
+            {
+                "number": "+77773485045",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "contact_id": 26,
+        "first_name": "nikita",
+        "last_name": "oleshov",
+        "contact_number": "+79273684098",
+        "email": "nikharitonov17@gmail.com",
+        "extra_info": "GA",
+        "birthday": null,
+        "group": "chief_admins",
+        "phones": [
+            {
+                "number": "+676767",
+                "type": "mobile"
+            },
+            {
+                "number": "+79273684098",
+                "type": "work"
+            }
+        ]
+    }
+]
